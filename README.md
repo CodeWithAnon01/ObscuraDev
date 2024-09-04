@@ -20,7 +20,7 @@ Hello! I am Minhal Raza, a student at FAST NUCES, currently working on various p
 - **Lab2_Assignment.docx**: Contains Flowcharts, Pseudocode, and Algorithms for Lab 2.
 
 ## Preview Image
-![Programmer](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg)
+![Programmer]([https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg](https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg))
 
 
 ---
