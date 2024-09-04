@@ -20,7 +20,7 @@ Hello! I am Minhal Raza, a student at FAST NUCES, currently working on various p
 - **Lab2_Assignment.docx**: Contains Flowcharts, Pseudocode, and Algorithms for Lab 2.
 
 ## Preview Image
-![NUCES Logo](https://upload.wikimedia.org/wikipedia/en/6/69/Fast_nuces_logo.png)
+![Programmer](https://github.com/CodeWithAnon01/ObscuraDev/blob/main/teaserImage_xxxx_croppedTeaserImage.jpg)
 
 
 ---
